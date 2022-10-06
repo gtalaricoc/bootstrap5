@@ -1,0 +1,71 @@
+#opaco{
+    filter:brightness(50%);
+    -webkit-filter:brightness(50%);
+}
+
+
+#tama{
+    height: 450px;
+    width: 800px ;
+}
+
+.lugarYFecha {
+    background-color: #333333;
+    color: #FFF;
+    text-align: left;
+}
+.lugarYFecha .jumbotron {
+    padding: 1em 0em;
+}
+.lugarYFecha p {
+    font-size: 0.9em;
+}
+#honolulu {
+    padding: 0;
+}
+
+u.dotted{
+    border-bottom: 1px dashed #999;
+    text-decoration: none; 
+  }
+
+  #footerfix {
+    color: #C9C9C9;
+    width: 100%;
+    background-color: #2d2d2d;
+    list-style: none;
+    height: 460px;
+    padding-bottom: 0;
+    background-image:url(http://i.imgur.com/yb7j6PD.png);
+    background-repeat:repeat;   
+    }
+    
+    
+    #insidefooterfix {
+    margin-top: 20px;
+    text-align: center;
+    height: 380px;
+    margin-bottom: 0;
+    
+    }
+    
+    .grid_12margin {
+    display:inline;
+    float: left;
+    position: relative;
+    margin-left: 1%;
+    margin-right: 1%;
+    }
+    
+    .grid_12 {
+    display:inline;
+    float: left;
+    position: relative;
+    /*margin-left: 1%;
+    margin-right: 1%;*/
+    }
+    
+    .container_12 .grid_12 {
+    width:100%;
+    /*width:98.0%;*/
+    }
